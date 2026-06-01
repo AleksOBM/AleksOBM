@@ -1,17 +1,16 @@
-## Hi there 👋
+## Hello World !
 
-<!--
-**AleksOBM/AleksOBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Java by Yandex Practicum
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱 I’m currently learning java
+![Skills](https://i.icoziv.workers.dev/icons?i=java)  
+![Skills](https://i.icoziv.workers.dev/icons?i=spring,springboot,springcloud,springsecurity,hibernate)  
+![Skills](https://i.icoziv.workers.dev/icons?i=postgresql,rest,docker,kafka,grpc)  
+![Skills](https://i.icoziv.workers.dev/icons?i=swagger,apachemaven,git,github,linux)  
+![Skills](https://i.icoziv.workers.dev/icons?i=json,markdown,sql,xml,csv)  
+![Skills](https://i.icoziv.workers.dev/icons?i=intellijidea,vscode,eclipse,netbeans,postman)  
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=AleksOBM)
