@@ -14,4 +14,5 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksOBM&theme=solarized_dark)  
-![Profile views](https://komarev.com/ghpvc/?username=AleksOBM)
+
+[//]: # (![Profile views]&#40;https://komarev.com/ghpvc/?username=AleksOBM&#41;)
