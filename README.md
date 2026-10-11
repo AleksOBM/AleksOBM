@@ -1,6 +1,6 @@
 ## Hello World !
 
-🌱 I’m currently learning Java by Yandex Practicum
+🌱 I’m currently learning Java
 
 ---
 
